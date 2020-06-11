@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageReaderPdf/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagereaderpdf" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagereaderpdf" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
